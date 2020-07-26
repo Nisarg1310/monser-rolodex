@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/monsters-rolodex/static/css/main.1b6edc6e.chunk.css",
-    "main.js": "/monsters-rolodex/static/js/main.285a13c7.chunk.js",
-    "main.js.map": "/monsters-rolodex/static/js/main.285a13c7.chunk.js.map",
-    "runtime-main.js": "/monsters-rolodex/static/js/runtime-main.eea62ddf.js",
-    "runtime-main.js.map": "/monsters-rolodex/static/js/runtime-main.eea62ddf.js.map",
-    "static/js/2.7aaef059.chunk.js": "/monsters-rolodex/static/js/2.7aaef059.chunk.js",
-    "static/js/2.7aaef059.chunk.js.map": "/monsters-rolodex/static/js/2.7aaef059.chunk.js.map",
-    "index.html": "/monsters-rolodex/index.html",
-    "precache-manifest.9ff1fbd2bbc41b34bab395fa25561cf1.js": "/monsters-rolodex/precache-manifest.9ff1fbd2bbc41b34bab395fa25561cf1.js",
-    "service-worker.js": "/monsters-rolodex/service-worker.js",
-    "static/css/main.1b6edc6e.chunk.css.map": "/monsters-rolodex/static/css/main.1b6edc6e.chunk.css.map",
-    "static/js/2.7aaef059.chunk.js.LICENSE.txt": "/monsters-rolodex/static/js/2.7aaef059.chunk.js.LICENSE.txt"
+    "main.css": "/monser-rolodex/static/css/main.1b6edc6e.chunk.css",
+    "main.js": "/monser-rolodex/static/js/main.37409806.chunk.js",
+    "main.js.map": "/monser-rolodex/static/js/main.37409806.chunk.js.map",
+    "runtime-main.js": "/monser-rolodex/static/js/runtime-main.5769c704.js",
+    "runtime-main.js.map": "/monser-rolodex/static/js/runtime-main.5769c704.js.map",
+    "static/js/2.7aaef059.chunk.js": "/monser-rolodex/static/js/2.7aaef059.chunk.js",
+    "static/js/2.7aaef059.chunk.js.map": "/monser-rolodex/static/js/2.7aaef059.chunk.js.map",
+    "index.html": "/monser-rolodex/index.html",
+    "precache-manifest.17954056af7f826983363c302c979330.js": "/monser-rolodex/precache-manifest.17954056af7f826983363c302c979330.js",
+    "service-worker.js": "/monser-rolodex/service-worker.js",
+    "static/css/main.1b6edc6e.chunk.css.map": "/monser-rolodex/static/css/main.1b6edc6e.chunk.css.map",
+    "static/js/2.7aaef059.chunk.js.LICENSE.txt": "/monser-rolodex/static/js/2.7aaef059.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.eea62ddf.js",
+    "static/js/runtime-main.5769c704.js",
     "static/js/2.7aaef059.chunk.js",
     "static/css/main.1b6edc6e.chunk.css",
-    "static/js/main.285a13c7.chunk.js"
+    "static/js/main.37409806.chunk.js"
   ]
 }
